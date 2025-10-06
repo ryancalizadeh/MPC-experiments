@@ -1,0 +1,14 @@
+MPC:
+- Decision horizon N
+- maximum optimizer steps
+- Disturbances
+- strictness of terminal constraint
+
+DeePC
+- Regularization
+- How to initialize DeePC when X_ini and U_ini arent available
+- How to collect PE data from an unstable system?
+- How sensitive is it to early stopping (TDO)
+- DeePC optimization takes a looooong time
+- how should I select T_ini and N
+
